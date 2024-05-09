@@ -61,8 +61,4 @@ function rollTheDice() {
 
     },2500);
     
-
-
-
-
 }    
